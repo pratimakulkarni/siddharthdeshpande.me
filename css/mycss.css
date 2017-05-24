@@ -18,6 +18,7 @@
 }
 
 #left_menu{
+  margin-left: -40px;
 	float:left;
 	position:fixed;
 	margin-top:150px;
@@ -112,4 +113,15 @@
 .Fresh {
   margin-bottom: 100px !important;
   margin-top: 125px !important;
+}
+/**
+ * Projects tabs
+ */
+#project .portfolio_block{
+  margin-left: 50px;
+}
+
+#project .project_descr h3 {
+    margin-bottom: 30px !important;
+    margin-top: -4px !important;
 }
